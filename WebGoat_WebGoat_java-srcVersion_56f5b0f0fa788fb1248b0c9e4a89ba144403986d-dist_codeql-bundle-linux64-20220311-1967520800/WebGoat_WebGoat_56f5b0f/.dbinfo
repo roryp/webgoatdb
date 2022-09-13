@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:dbinfo xmlns:ns2="https://semmle.com/schemas/dbinfo">
+    <sourceLocationPrefix>/opt/src</sourceLocationPrefix>
+    <baselineLinesOfCode>15853</baselineLinesOfCode>
+    <unicodeNewlines>false</unicodeNewlines>
+    <columnKind>utf16</columnKind>
+    <primaryLanguage>java</primaryLanguage>
+    <creationMetadata>
+        <sha>56f5b0f0fa788fb1248b0c9e4a89ba144403986d</sha>
+        <cliVersion>2.8.3</cliVersion>
+        <creationTime>2022-03-28T18:50:50.504690874Z</creationTime>
+    </creationMetadata>
+</ns2:dbinfo>
